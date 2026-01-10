@@ -17,8 +17,6 @@
 
 @yield('content')
 
-@include('shared.partials/footer-scripts')
-
 @yield('scripts')
 
 </body>
